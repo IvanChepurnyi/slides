@@ -1,0 +1,13 @@
+# Layout
+layout : center
+
+# Look-and-Feel
+theme : template
+theme-override : assets/css/PITCHME.css
+highlight : vs
+
+footnote : " "
+
+# Behavior
+transition : none
+published : true
