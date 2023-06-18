@@ -1,0 +1,10 @@
+{
+  "name": "mm23ro",
+      "dependencies": {
+        "slidev-theme-dracula": "^0.1.0"
+      },
+      "devDependencies": {
+        "@iconify-json/logos": "^1.1.25",
+        "@iconify-json/uim": "^1.1.5"
+      }
+}
